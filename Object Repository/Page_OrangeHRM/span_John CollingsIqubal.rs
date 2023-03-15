@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_John CollingsIqubal</name>
+   <tag></tag>
+   <elementGuidId>7e7aff49-0890-4af5-9f34-e86ef1657fb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.oxd-userdropdown-tab</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c1d0b493-9f11-46f3-8df6-9bf4f223c9a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-userdropdown-tab</value>
+      <webElementGuid>55054e24-a5ff-4e54-a588-0887c38b8560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>John CollingsIqubal</value>
+      <webElementGuid>b2de6d95-7b9f-4cbf-b181-f8e6d994eb07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-userarea&quot;]/ul[1]/li[@class=&quot;oxd-userdropdown&quot;]/span[@class=&quot;oxd-userdropdown-tab&quot;]</value>
+      <webElementGuid>fc7226b9-7ede-441d-9571-145a64f86ef5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/span</value>
+      <webElementGuid>30d77de9-aeb9-45d3-8948-a9f0d47ef1c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>c5fdd23f-9c1f-41eb-a1a8-dd6841b93ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'John CollingsIqubal' or . = 'John CollingsIqubal')]</value>
+      <webElementGuid>494c3cd8-34d7-4e40-a1ab-81ec8fd3a0b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

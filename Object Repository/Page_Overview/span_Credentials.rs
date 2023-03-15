@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Credentials</name>
+   <tag></tag>
+   <elementGuidId>687abefb-5dc9-41ed-9c1f-6727338469e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ContextAware'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7890e285-76b6-4494-806b-638ba2c15f00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>interfaceName</value>
+      <webElementGuid>b5402439-4ee2-4ff4-9d1b-7b2b82bdb2f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Credentials</value>
+      <webElementGuid>0b8a24f8-f41c-4307-b037-7485d900edb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;indexContainer&quot;]/section[1]/ul[1]/li[5]/a[1]/span[@class=&quot;interfaceName&quot;]</value>
+      <webElementGuid>cca4f5d3-443d-4128-9d97-aba122c765f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Overview/iframe_packageFrame</value>
+      <webElementGuid>9c15f057-becb-4d65-8155-b68108e3e970</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ContextAware'])[1]/following::span[1]</value>
+      <webElementGuid>57c1dedd-47c2-4b4f-9070-e3009328f09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capabilities'])[1]/following::span[2]</value>
+      <webElementGuid>b2b5a743-bda3-4c0e-aca7-dcf8f22cafd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HasAuthentication'])[1]/preceding::span[1]</value>
+      <webElementGuid>3f544185-d3d1-4e4f-9e56-3ac079e2be0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HasCapabilities'])[1]/preceding::span[2]</value>
+      <webElementGuid>24f9606f-7210-4736-83f4-5841d9b2e0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Credentials']/parent::*</value>
+      <webElementGuid>77f68b6b-056f-48bc-8a9f-4b867953f8d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/span</value>
+      <webElementGuid>dd09ebe2-2f9b-4471-830a-4701e467bce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Credentials' or . = 'Credentials')]</value>
+      <webElementGuid>3412aed8-6e3d-45c9-bab5-82fd44b42cb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
